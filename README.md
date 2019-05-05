@@ -1,2 +1,2 @@
 # final_proj
-Files related to final projects
+Files related to final project
